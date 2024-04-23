@@ -4,7 +4,7 @@
 - COSMOS를 통하여 TM/TC를 수행
 
 
- [Markdown help](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github, "Markdown help")
+ [Markdown help](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github "Markdown help")
  
 <!---
 zeros93/zeros93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
