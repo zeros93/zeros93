@@ -1,7 +1,7 @@
 
 # About me
-### NASA cFS를 사용하여 Flight Software를 개발 중
-### COSMOS를 통하여 TM/TC를 수행
+### NASA cFS를 사용하여 Flight Software 개발 중
+### COSMOS를 사용하여 TM/TC를 수행
 
 
 [GitHub 설명서](https://docs.github.com/ko/get-started "GitHub 설명서 시작")
